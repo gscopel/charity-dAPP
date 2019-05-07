@@ -1,0 +1,18 @@
+{
+  "name": "charity",
+  "version": "1.0.0",
+  "description": "dAPP to make charitable donations more efficient and transparent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Scopel",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.4.3",
+    "mocha": "^6.1.4",
+    "solc": "^0.5.1",
+    "web3": "^1.0.0-beta.35"
+  }
+}
